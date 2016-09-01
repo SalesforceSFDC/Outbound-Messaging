@@ -20,6 +20,7 @@ All Rights Reserved -->
 <element name="fieldsToNull" type="xsd:string" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
 <element name="Id" type="ent:ID" nillable="true"/>
 </sequence>
+
 </complexType>
 <complexType name="AggregateResult">
 <complexContent>
